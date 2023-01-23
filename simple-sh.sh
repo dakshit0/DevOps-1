@@ -1,3 +1,3 @@
 #simple.sh
 #simple shell script
-echo "Hello , I am dakshit"
+echo "Hello , I am dakshit. ok"
